@@ -1,17 +1,5 @@
 
-# WordCount-Using-MapReduce-Hadoop
-
-This repository is designed to test MapReduce jobs using a simple word count dataset.
-
-## Objectives
-
-By completing this activity, students will:
-
-1. **Understand Hadoop's Architecture:** Learn how Hadoop's distributed file system (HDFS) and MapReduce framework work together to process large datasets.
-2. **Build and Deploy a MapReduce Job:** Gain experience in compiling a Java MapReduce program, deploying it to a Hadoop cluster, and running it using Docker.
-3. **Interact with Hadoop Ecosystem:** Practice using Hadoop commands to manage HDFS and execute MapReduce jobs.
-4. **Work with Docker Containers:** Understand how to use Docker to run and manage Hadoop components and transfer files between the host and container environments.
-5. **Analyze MapReduce Job Outputs:** Learn how to retrieve and interpret the results of a MapReduce job.
+# MapReduce : Movie Script Analysis
 
 ## Setup and Execution
 
